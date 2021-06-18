@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+/* NAvigation bar */
+#title {
+background: rgba(0,0,0,0.7);
+}
+
+#navbar {
+padding: 0 0 5px;
+}
+
+#navbar-brand {
+text-decoration: none;
+color:#fdfffc;
+font-family: sans-serif;
+font-size: 2rem;
+font-weight: bold;
+padding-left: 2rem;
+}
+span{
+    color:white;
+}
+
+.nav-item {
+padding: 0 10px;
+}
+
+.nav-link {
+font-size: 1.6rem;
+}
+
+.btn {
+    background-color: black;
+}
+
+/* Introduction */
+.intro{
+text-align: center;
+font-size: 50px;
+letter-spacing: 3px;
+font-family: 'sans-serif';
+position: relative;
+padding:4% 8%;
+color:black;
+
+}
+
+.cont{
+height:200px;
+width:300px;
+padding: 1%;
+margin: 0 auto;
+}
+
+button{
+height: 30%;
+width: 30%;
+}
+.contain{
+height:200px;
+width:400px;
+background-color:lightgray;
+padding: 1%;
+margin: 0 auto;
+}
+.choose{
+    font-size:1.5rem;
+    color:#292b2c;
+    font-style:Ubuntu;
+    font-weight:bold
+}
+/* footer section */
+#footer {
+margin-top: 200px;
+padding: 5% auto;
+text-align: center;
+color: white;
+font-size: 25px;
+}
+
+.social-icon {
+margin: 10px 5px;
+color: white;
+}
+.social-icon:hover{
+cursor: pointer;
+padding:0 5px ;
+}
